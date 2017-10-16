@@ -1,0 +1,41 @@
+{
+  "name": "gatsby-starter-emotion",
+  "description": "An opinionated Gatsby starter with emotion",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "test": "npm run lint",
+    "lint": "eslint .",
+    "fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "emotion": "^8.0.6",
+    "emotion-server": "^8.0.6",
+    "gatsby": "^1.9.66",
+    "gatsby-link": "^1.6.21",
+    "gatsby-plugin-emotion": "^1.1.8",
+    "gatsby-plugin-netlify": "^1.0.6",
+    "gatsby-plugin-react-helmet": "^1.0.7",
+    "gatsby-plugin-react-next": "^1.0.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-emotion": "^8.0.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.5.0",
+    "eslint-config-prettier": "^2.3.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-prettier": "^2.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.3.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.7.4"
+  }
+}
