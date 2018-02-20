@@ -30,7 +30,7 @@
     "eslint-config-prettier": "2.9.0",
     "eslint-config-react": "1.1.7",
     "eslint-config-standard": "11.0.0",
-    "eslint-config-standard-react": "5.0.0",
+    "eslint-config-standard-react": "6.0.0",
     "eslint-plugin-import": "2.8.0",
     "eslint-plugin-node": "6.0.0",
     "eslint-plugin-prettier": "2.6.0",
